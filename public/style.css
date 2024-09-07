@@ -1,0 +1,27 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: rgb(153, 171, 165);
+    text-align: center;
+}
+.user{
+    font-style: italic;
+}
+.edit{
+    text-decoration: none;
+    padding-left: 200px;
+    font-size: 1.25rem;
+}
+.see{
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 1.25rem;
+}
+.btn{
+   margin-left: 5%;
+   margin-bottom: 50px;
+   height: 50px;
+   width: 100px;
+}
+
